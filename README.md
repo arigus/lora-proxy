@@ -1,2 +1,3 @@
-# lora-proxy
-Fork of TTN implementations croft/jolie
+Lora-proxy
+
+An extention to process the packets received from LoraWAN gateway and publish via MQTT broker
